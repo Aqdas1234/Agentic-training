@@ -1,0 +1,10 @@
+# 01-agent-from-scratch
+openai>=1.40
+python-dotenv>=1.0
+
+# 02-langchain-agents
+langchain>=1.4
+langchain-groq>=1.1
+
+# 03-langgraph-fundamentals
+grandalf>=0.8   # draws graphs as ASCII in the terminal
